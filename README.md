@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7WICEhU7XUj6pWjG/giphy.gif" width="50px" alt="wave"/> 
-  Hi there, I'm Omesh Lalaji
+  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="50" alt="handshake"/> 
+  Hi, I’m Omesh Lalaji
 </h1>
 
 <p align="center">
@@ -20,21 +20,22 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200px" alt="coding"/>
+  <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="200" alt="typing"/>
 </p>
 
-- 🎓 **B.Tech CSE** Student @ IIIT Sricity (2022–2026)  
-- 💻 **Full Stack** (MERN) & **Deep Learning** Enthusiast  
+- 🎓 **B.Tech CSE**, IIIT Sricity (2022–2026)  
+- 💼 Building **Full-Stack (MERN)** apps & **Deep Learning** solutions  
 - 🔧 Skilled in **Python, JavaScript, Java, C, SQL**  
-- 🌐 Built **Event Management** MERN app with JWT auth  
+- 🌐 Developed **Event Management System** with JWT auth  
 - 🤖 Created **Audio Emotion Detection** (GRU) & **Stock Predictor**  
-- 📊 Data wiz with **Pandas, NumPy, Matplotlib**  
+- 📊 Data processing & visualization with **Pandas, NumPy, Matplotlib**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Minimal, professional icons via skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=python,js,java,c,sql,html,css,react,nodejs,express,mongodb,tensorflow,keras,pandas,numpy,git,github,vscode,linux" />
 </p>
 
@@ -51,24 +52,25 @@
 
 ### 🚀 Projects
 
-| Project                     | Description                                          | GIF                                |
-| --------------------------- | ---------------------------------------------------- | ---------------------------------- |
-| **Event Management System** | MERN stack platform with secure JWT auth             | ![MERN](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) |
-| **Audio Emotion Detection** | GRU model to classify speech emotions                | ![Audio](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif) |
-| **Stock Price Prediction**  | Time-series ML model for stock forecasting           | ![Stock](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif) |
-| **Copy Image Detection**    | Detects image plagiarism via feature extraction      | ![Image](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif) |
+| Project                     | Key Tech           | GIF (Subtle)                          |
+| --------------------------- | ------------------ | ------------------------------------- |
+| **Event Management System** | MERN, JWT          | ![MERN Icon](https://cdn.lordicon.com/zniqnylq.json) |
+| **Audio Emotion Detection** | GRU, TensorFlow    | ![Audio Icon](https://cdn.lordicon.com/xvkkusuo.json) |
+| **Stock Price Prediction**  | scikit-learn       | ![Graph Icon](https://cdn.lordicon.com/gsqxdxog.json) |
+| **Copy Image Detection**    | OpenCV, feature ex | ![Image Icon](https://cdn.lordicon.com/hiebbekl.json) |
 
 ---
 
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100px" alt="learning"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100" alt="growth"/>
 </p>
 
 - Advanced **DSA & System Design**  
-- Real-time **WebSockets** & **CI/CD**  
+- Real-time **WebSockets** & **CI/CD**
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_ 😄
+_“Great code is its own best documentation.”_  
+
