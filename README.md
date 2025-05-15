@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Omesh Lalaji</h1>
 <p align="center">
-  <a href="https://github.com/ol752274"><img src="https://img.shields.io/github/followers/ol752274?label=Follow&style=social"></a>
   <a href="mailto:ol752274@gmail.com"><img src="https://img.shields.io/badge/Email-ol752274@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/omesh-lalaji"><img src="https://img.shields.io/badge/LinkedIn-Omesh%20Lalaji-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/ol752274"><img src="https://img.shields.io/github/followers/ol752274?label=Follow&style=social"></a>
 </p>
 
 ---
@@ -11,9 +11,8 @@
 
 - 🎓 B.Tech CSE Student at **IIIT Sricity** (2022–2026)
 - 💻 Full Stack Developer | Deep Learning Enthusiast
-- 🔍 Passionate about building scalable web apps & solving real-world problems using AI
-- 🌱 Currently exploring **System Design**, **Advanced MERN**, and **DSA for Interviews**
-- 📬 Reach me: [ol752274@gmail.com](mailto:ol752274@gmail.com)
+- 🌱 Exploring **System Design**, **Advanced MERN**, and **DSA for Interviews**
+- 📫 Reach me: [ol752274@gmail.com](mailto:ol752274@gmail.com)
 
 ---
 
