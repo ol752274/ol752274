@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o6ZsZZ7US4upBS0Mg/giphy.gif" width="50" alt="handshake"/>  
   Hi, I’m Omesh Lalaji
 </h1>
 
@@ -18,10 +17,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="typing code"/>
-</p>
 
 - 🎓 **B.Tech CSE**, IIIT Sricity (2022–2026)  
 - 💼 Full-Stack (MERN) Developer & Deep Learning Enthusiast  
