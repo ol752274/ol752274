@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="50" alt="handshake"/> 
+  <img src="https://media.giphy.com/media/l0MYEQEzwMWFCg8rm/giphy.gif" width="50" alt="handshake"/>  
   Hi, I’m Omesh Lalaji
 </h1>
 
@@ -20,22 +20,21 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="200" alt="typing"/>
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="200" alt="coding"/>
 </p>
 
 - 🎓 **B.Tech CSE**, IIIT Sricity (2022–2026)  
-- 💼 Building **Full-Stack (MERN)** apps & **Deep Learning** solutions  
+- 💼 Full-Stack (MERN) Developer & Deep Learning Enthusiast  
 - 🔧 Skilled in **Python, JavaScript, Java, C, SQL**  
-- 🌐 Developed **Event Management System** with JWT auth  
+- 🌐 Built **Event Management System** with JWT auth  
 - 🤖 Created **Audio Emotion Detection** (GRU) & **Stock Predictor**  
-- 📊 Data processing & visualization with **Pandas, NumPy, Matplotlib**
+- 📊 Data analysis with **Pandas, NumPy, Matplotlib**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Minimal, professional icons via skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=python,js,java,c,sql,html,css,react,nodejs,express,mongodb,tensorflow,keras,pandas,numpy,git,github,vscode,linux" />
 </p>
 
@@ -52,19 +51,19 @@
 
 ### 🚀 Projects
 
-| Project                     | Key Tech           | GIF (Subtle)                          |
-| --------------------------- | ------------------ | ------------------------------------- |
-| **Event Management System** | MERN, JWT          | ![MERN Icon](https://cdn.lordicon.com/zniqnylq.json) |
-| **Audio Emotion Detection** | GRU, TensorFlow    | ![Audio Icon](https://cdn.lordicon.com/xvkkusuo.json) |
-| **Stock Price Prediction**  | scikit-learn       | ![Graph Icon](https://cdn.lordicon.com/gsqxdxog.json) |
-| **Copy Image Detection**    | OpenCV, feature ex | ![Image Icon](https://cdn.lordicon.com/hiebbekl.json) |
+| Project                     | Tech Stack        | GIF                                |
+| --------------------------- | ----------------- | ---------------------------------- |
+| **Event Management System** | MERN, JWT         | <img src="https://media.giphy.com/media/3o7qDQ1kVtGuXYCQWc/giphy.gif" width="50"/> |
+| **Audio Emotion Detection** | GRU, TensorFlow   | <img src="https://media.giphy.com/media/3ohhwoQe39qPmTSBYA/giphy.gif" width="50"/> |
+| **Stock Price Prediction**  | scikit-learn      | <img src="https://media.giphy.com/media/l0HlSjZp8XQTzJ5aU/giphy.gif" width="50"/> |
+| **Copy Image Detection**    | OpenCV, features  | <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50"/> |
 
 ---
 
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100" alt="growth"/>
+  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" width="100" alt="growth"/>
 </p>
 
 - Advanced **DSA & System Design**  
@@ -72,5 +71,4 @@
 
 ---
 
-_“Great code is its own best documentation.”_  
-
+_“Great code is its own best documentation.”_ 😄
