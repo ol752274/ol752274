@@ -51,7 +51,7 @@
 | **Event Management System** | MERN, JWT         |
 | **Audio Emotion Detection** | GRU, TensorFlow   |
 | **Stock Price Prediction**  | scikit-learn      |
-| **Copy Image Detection**    | OpenCV & features |
+| **Copy Image Detection**    | CNN & features     |
 
 ---
 
