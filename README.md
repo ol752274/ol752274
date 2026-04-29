@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi, I’m Omesh Lalaji
+  Hi, I’m Omesh Lalaji 👋
 </h1>
 
 <p align="center">
-  <a href="mailto:ol752274@gmail.com">
+  <a href="mailto:omeshlalaji1@gmail.com">
     <img src="https://img.shields.io/badge/Email-omeshlalaji1@gmail.com-red?style=flat-square&logo=gmail" alt="email"/>
   </a>
-  <a href="https://linkedin.com/in/omesh-lalaji">
+  <a href="https://linkedin.com/in/omesh-lalaji-157b40266">
     <img src="https://img.shields.io/badge/LinkedIn-Omesh%20Lalaji-blue?style=flat-square&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://github.com/ol752274">
@@ -18,19 +18,19 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE**, IIIT Sricity (2022–2026)  
-- 💼 Full-Stack (MERN) Developer & Deep Learning Enthusiast  
-- 🔧 Skilled in **Python, JavaScript, Java, C, SQL**  
-- 🌐 Built **Event Management System** with JWT auth  
-- 🤖 Created **Audio Emotion Detection** (GRU) & **Stock Predictor**  
-- 📊 Data analysis with **Pandas, NumPy, Matplotlib**  
+- 🎓 **B.Tech CSE**, IIIT Sri City (2022–2026) | CGPA: 7.9/10  
+- 💼 Backend‑focused developer with internship experience in **FastAPI**, **PostgreSQL**, and cloud deployment (GCP)  
+- 🧠 Solved **500+ DSA problems** on LeetCode & GeeksforGeeks  
+- 🔧 Skilled in **Python, Java, JavaScript, TypeScript, SQL**  
+- 🌐 Built full‑stack apps: **EventWeb** (MERN + Redis + Docker) & **DailyBlog** (Django)  
+- 🚀 Currently learning **system design**, **WebSockets**, and advanced **CI/CD**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,sql,html,css,react,nodejs,express,mongodb,tensorflow,keras,pandas,numpy,git,github,vscode,linux" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,sql,html,css,react,nextjs,nodejs,express,fastapi,django,mongodb,postgresql,mysql,redis,docker,git,github,githubactions,linux,gcp,postman" alt="tech icons"/>
 </p>
 
 ---
@@ -44,22 +44,33 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-| Project                     | Tech Stack        |
-| --------------------------- | ----------------- |
-| **Event Management System** | MERN, JWT         |
-| **Bloging Website -Blogit** | Django, MongoDB   |
-| **Stock Price Prediction**  | scikit-learn      |
-| **Copy Image Detection**    | CNN & features     |
+| Project | Tech Stack | Highlights |
+|---------|-----------|------------|
+| **EventWeb** – Event Management Platform | MERN + Redis + JWT + Docker + GitHub Actions | RBAC, booking dashboards, Redis caching, CI/CD deployment on Render |
+| **DailyBlog** – Blogging Website | Django + SQLite + Docker | CRUD, threaded comments, category filters, containerized deployment |
+| **RAG Document Retriever** (Intern project) | Python, LangChain, IBM Granite, FAISS | Improved retrieval accuracy with hybrid search (dense + sparse) |
 
----
-
-### 🌱 Currently Learning
-
-- Advanced **DSA & System Design**  
-- Real-time **WebSockets** & **CI/CD**
+> More repos available on [my GitHub](https://github.com/ol752274)
 
 ---
 
-_“Great code is its own best documentation.”_ 😄  
+### 🏆 Achievements & Certifications
+
+- **96 percentile** in JEE Main (among 1.2M+ candidates)  
+- **Pull Shark**, **YOLO**, **Quickdraw** badges on GitHub  
+- **AI-Powered Document Retrieval** – IBM SkillsBuild  
+- **Claude Code in Action** (MCP, hooks, agentic AI) – Anthropic  
+
+---
+
+### 🌱 Current Focus
+
+- Deepening backend design patterns (FastAPI, Django, Node.js)  
+- Real‑time features with WebSockets (Socket.io)  
+- Production‑ready CI/CD pipelines (GitHub Actions + Docker + GCP)
+
+---
+
+_“Great code is its own best documentation.”_ 😄
