@@ -6,7 +6,7 @@
   <a href="mailto:omeshlalaji1@gmail.com">
     <img src="https://img.shields.io/badge/Email-omeshlalaji1@gmail.com-red?style=flat-square&logo=gmail" alt="email"/>
   </a>
-  <a href="https://linkedin.com/in/omesh-lalaji-157b40266">
+  <a href="https://www.linkedin.com/in/omeshlalaji">
     <img src="https://img.shields.io/badge/LinkedIn-Omesh%20Lalaji-blue?style=flat-square&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://github.com/ol752274">
@@ -20,7 +20,7 @@
 
 - 🎓 **B.Tech CSE**, IIIT Sri City (2022–2026) | CGPA: 7.9/10  
 - 💼 Backend‑focused developer with internship experience in **FastAPI**, **PostgreSQL**, and cloud deployment (GCP)  
-- 🧠 Solved **500+ DSA problems** on LeetCode & GeeksforGeeks  
+- 🧠 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks  
 - 🔧 Skilled in **Python, Java, JavaScript, TypeScript, SQL**  
 - 🌐 Built full‑stack apps: **EventWeb** (MERN + Redis + Docker) & **DailyBlog** (Django)  
 - 🚀 Currently learning **system design**, **WebSockets**, and advanced **CI/CD**
@@ -50,7 +50,7 @@
 |---------|-----------|------------|
 | **EventWeb** – Event Management Platform | MERN + Redis + JWT + Docker + GitHub Actions | RBAC, booking dashboards, Redis caching, CI/CD deployment on Render |
 | **DailyBlog** – Blogging Website | Django + SQLite + Docker | CRUD, threaded comments, category filters, containerized deployment |
-| **RAG Document Retriever** (Intern project) | Python, LangChain, IBM Granite, FAISS | Improved retrieval accuracy with hybrid search (dense + sparse) |
+| **RAG Document Retriever** (Intern project) | Python, LangChain, IBM Granite, FAISS | Built hybrid search pipeline (dense + sparse vectors) |
 
 > More repos available on [my GitHub](https://github.com/ol752274)
 
@@ -73,4 +73,4 @@
 
 ---
 
-_“Great code is its own best documentation.”_ 😄
+*“Great code is its own best documentation.”* 😄
