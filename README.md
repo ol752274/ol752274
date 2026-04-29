@@ -49,7 +49,7 @@
 | Project                     | Tech Stack        |
 | --------------------------- | ----------------- |
 | **Event Management System** | MERN, JWT         |
-| **Audio Emotion Detection** | GRU, TensorFlow   |
+| **Bloging Website -Blogit** | Django, MongoDB   |
 | **Stock Price Prediction**  | scikit-learn      |
 | **Copy Image Detection**    | CNN & features     |
 
