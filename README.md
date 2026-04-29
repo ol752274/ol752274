@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:ol752274@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ol752274@gmail.com-red?style=flat-square&logo=gmail" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-omeshlalaji1@gmail.com-red?style=flat-square&logo=gmail" alt="email"/>
   </a>
   <a href="https://linkedin.com/in/omesh-lalaji">
     <img src="https://img.shields.io/badge/LinkedIn-Omesh%20Lalaji-blue?style=flat-square&logo=linkedin" alt="linkedin"/>
